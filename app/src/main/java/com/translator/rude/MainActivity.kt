@@ -1,4 +1,4 @@
-// test com.translator.rude
+package com.translator.rude
 
 import android.os.Bundle
 import android.widget.TextView
