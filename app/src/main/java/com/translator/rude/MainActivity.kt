@@ -1,4 +1,4 @@
-package com.translator.rude
+// test com.translator.rude
 
 import android.os.Bundle
 import android.widget.TextView
@@ -17,3 +17,4 @@ class MainActivity : AppCompatActivity() {
         setContentView(tv)
     }
 }
+// test
